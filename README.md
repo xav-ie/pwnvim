@@ -1,3 +1,9 @@
+# Forked
+
+You should probably see https://github.com/zmre/pwnvim/tree/78b0f4378dd3f43b2af6f66897c545eacd53288e if you want a portable nvim setup you can tinker with. This is my tinkering.
+
+---
+
 # pwnvim - my portable nvim setup
 
 This repo is for [nix](https://nixos.org/) users. If that doesn't mean anything to you, you're probably in the wrong place. Although I rather enjoy the name of this being "pwn vim", it is really my initials, "pw" and "nvim" that drove the name choice. If you're worried that running this will pwn your machine, then you should just use it as inspiration for building your own. I doubt my config will work exactly how you'd like it to anyway.
